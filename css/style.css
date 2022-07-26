@@ -7,7 +7,7 @@ body {
 
 #map {
   height: 200px;
-  width: 100vw;
+  width: 90vw;
   position: absolute;
   border-bottom: 3px solid orange;
   top: 0;
@@ -33,7 +33,7 @@ body {
 
 #top {
   height: 40px;
-  margin: 0;
+  margin: 10px;
 }
 
 #space-at-the-bottom {
@@ -51,7 +51,7 @@ body {
   width: 100vw;
   z-index: 100;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   visibility: hidden;
   font-weight: bold;
   text-align: center;
@@ -144,8 +144,8 @@ a.source:visited {
 
 /* Storymap logo image above the title */
 #logo {
-  height: 60px;
-  line-height: 60px;
+  height: 100px;
+  line-height: 100px;
   text-align: center;
   padding: 10px;
   max-width: 100%;
@@ -160,7 +160,7 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: #FFF7E6;
+  color: #1B1A1B;
 }
 
 /* Storymap title & subtitle */
