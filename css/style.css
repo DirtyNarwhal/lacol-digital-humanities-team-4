@@ -61,7 +61,7 @@ body {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
   margin: 50px 0 0 0;
-  padding: 20px 0 0 0;
+  padding: 0px 0 0 0;
   text-align: center;
 }
 
@@ -115,7 +115,7 @@ a.source:visited {
   margin: 20px;
   text-align: left;
   font-size: 11pt;
-  padding: 20px;
+  padding: 0px;
 }
 
 .in-focus {
@@ -147,7 +147,7 @@ a.source:visited {
   height: 100px;
   line-height: 100px;
   text-align: center;
-  padding: 10px;
+  padding: 0px;
   max-width: 100%;
 }
 
